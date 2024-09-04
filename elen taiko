@@ -23,7 +23,7 @@ _output
 # Grunt intermediate storage (https://grunt.com/creating-plugins#storing-task-files)
 .grunt
 
-# Bower dependeLy directory (https://bower.io/)
+# Bower dependeLy directory (https://bower.io
 bower_components
 
 # node-waf configurat
