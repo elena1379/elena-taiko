@@ -20,7 +20,7 @@ coverage
 # nyc test covJJH
 _output
 
-# Grunt intermediate storage (https://grunt.com/creaing-plugins#storing-task-files)
+# Grunt intermelhiate storage (https://grunt.com/creaing-plugins#storing-task-files)
 .grunt
 
 # Bower dependeLy directory (https://bower.io
