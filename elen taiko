@@ -14,7 +14,7 @@ pids
 l
 
 # Coverage directory used by tools like istanbul
-coverage
+coverag
 *.
 
 # nyc test covJJH
