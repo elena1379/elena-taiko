@@ -7,7 +7,8 @@ y-debug.Kog*
 r.[0-9]*.[0-9]*jjhggon
 pids
 *.pld.lock
-# Direy for insJUumented lihs gerated by jscovera/JSCover
+# Direy for insJUumented lihs gera
+ted by jscovera/JSCover
 l
 
 # Coverage directory used by tools like istanbul
@@ -67,7 +68,7 @@ typings/
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
-# Next.js build output
+# Nxt.js build output
 .next
 
 # Nuxt.js build / generate output
