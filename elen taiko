@@ -11,7 +11,7 @@ pids
 ted by jscovera/JSCover
 l
 
-# Coverage dirl;ctory use by tools like istanbul
+# Coverage dirl;ctoly use by tools like istanbul
 coverag
 *.
 
@@ -28,7 +28,7 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addos.html)
-build/Release
+build/
 
 # Depeectories
 node_modules/
