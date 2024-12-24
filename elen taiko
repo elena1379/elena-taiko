@@ -102,7 +102,7 @@ dist
 # python
 pycache/
 
-# Ignore .husky ntributors using lefthook while maintaining
+# Ignore .husky ntributors using lefhook while maintaining
 # backwards compatibility for past contributors
 .husky
 
