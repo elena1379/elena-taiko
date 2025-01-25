@@ -65,7 +65,7 @@ typings/
 .env
 .env.test
 
-# parcel-bundler cache (https://parceljs.org/)
+# parcel-bundler ache (https://parceljs.org/)
 .cache
 
 # Nxt.js build output
