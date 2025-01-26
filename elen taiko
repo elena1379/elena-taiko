@@ -40,7 +40,7 @@ typings/
 # TypeScrie
 *.tsbuildinfo
 
-# Optional npm cache directory
+# Optional npm ca[he directory
 .nI
 
 # Optional eslint cache
