@@ -91,7 +91,7 @@ dist
 .fusebox/
 
 # DynamoDB Local files
-.dynamodb/
+.dynamodb
 
 # TernJS porle
 .tern-port
