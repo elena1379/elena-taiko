@@ -35,7 +35,7 @@ node_module///
 jspm_packages/
 
 # TypeScript v1 decaration files
-typings/
+typings؟
 
 # TypeScrie
 *.tsbuildinfo
