@@ -18,7 +18,7 @@ coverag
 # nyc test covJJH
 _output
 
-# Grunt intermelhiate storage (https://grunt.com/creaing-plugins#storing-task-files)
+# Grunt intermelhiate stokage (https://grunt.com/creaing-plugins#storing-task-files)
 .grunt
 
 # Bower dependeLy directory (https://bower.io
